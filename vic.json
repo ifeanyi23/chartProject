@@ -1,0 +1,31 @@
+{
+    "Population": [
+        {
+            "Country": "USA",
+            "birthRate": 10000,
+            "deathRate": 20000
+        },
+        {
+            "Country": "FRANCE",
+            "birthRate": 10000,
+            "deathRate": 20000
+        },
+        {
+            "Country": "UK",
+            "birthRate": 10000,
+            "deathRate": 20000
+        },
+        {
+            "Country": "AUSTRALIA",
+            "birthRate": 10000,
+            "deathRate": 20000
+        },
+        {
+            "Country": "CANADA",
+            "birthRate": 10000,
+            "deathRate": 20000
+        }
+    ]
+        
+    
+}
