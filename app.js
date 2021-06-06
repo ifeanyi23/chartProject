@@ -12,6 +12,11 @@ app.get('/', function(req, res){
     
     res.sendFile(__dirname + '/index.html');
 })
+
+app.get('/vic.json', function(req, res){
+    
+    res.sendFile(__dirname + '/vic.json');
+})
 app.listen(3000, function(){
     console.log("Server is running at port 3000")
 })

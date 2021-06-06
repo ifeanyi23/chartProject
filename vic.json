@@ -1,29 +1,29 @@
 {
-    "Population": [
+    "population": [
         {
-            "Country": "USA",
+            "country": "USA",
             "birthRate": 10000,
             "deathRate": 20000
         },
         {
-            "Country": "FRANCE",
-            "birthRate": 10000,
-            "deathRate": 20000
+            "country": "FRANCE",
+            "birthRate": 25000,
+            "deathRate": 55000
         },
         {
-            "Country": "UK",
-            "birthRate": 10000,
-            "deathRate": 20000
+            "country": "UK",
+            "birthRate": 140000,
+            "deathRate": 240000
         },
         {
-            "Country": "AUSTRALIA",
-            "birthRate": 10000,
-            "deathRate": 20000
+            "country": "AUSTRALIA",
+            "birthRate": 30000,
+            "deathRate": 300000
         },
         {
-            "Country": "CANADA",
-            "birthRate": 10000,
-            "deathRate": 20000
+            "country": "CANADA",
+            "birthRate": 170000,
+            "deathRate": 10000
         }
     ]
         
